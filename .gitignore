@@ -1,0 +1,12 @@
+bin/*
+*.class
+.DS_Store
+.classpath
+.project
+*.prefs
+Eclipse/java*/*
+Eclipse/jv*/*
+.classpath
+.project
+*.prefs
+
